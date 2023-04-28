@@ -33,7 +33,7 @@ function DisplayData() {
     if (error) {
         console.log(error);
     }
-
+//testing
     return (
         <div>
             {data &&
